@@ -47,8 +47,7 @@ X1 EcoChain BOT is an automated tool designed to streamline onchain operations a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vonssy/X1-Ecochain-BOT.git
-cd X1-Ecochain-BOT
+git clone https://github.com/‌airdropbomb/X1bot.git && cd X1bot
 ```
 
 ### 2. Install Dependencies
@@ -127,42 +126,3 @@ When starting the bot, you'll be prompted to choose:
 2. **Auto-Rotation:** 
    - `y`: Enable automatic invalid proxy rotation
    - `n`: Disable auto-rotation
-
-## 💖 Support the Project
-
-If this project has been helpful to you, consider supporting its development:
-
-### Cryptocurrency Donations
-
-| Network | Address |
-|---------|---------|
-| **EVM** | `0xe3c9ef9a39e9eb0582e5b147026cae524338521a` |
-| **TON** | `UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB` |
-| **SOL** | `E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf` |
-| **SUI** | `0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347` |
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-1. ⭐ **Star this repository** if you find it useful
-2. 👥 **Follow** for updates on new features
-3. 🐛 **Report issues** via GitHub Issues
-4. 💡 **Suggest improvements** or new features
-5. 🔧 **Submit pull requests** for bug fixes or enhancements
-
-## 📞 Contact & Support
-
-- **Developer:** vonssy
-- **Issues:** [GitHub Issues](https://github.com/vonssy/X1-Ecochain-BOT/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/vonssy/X1-Ecochain-BOT/discussions)
-
----
-
-<div align="center">
-
-**Made with ❤️ by [vonssy](https://github.com/vonssy)**
-
-*Thank you for using X1 EcoChain BOT! Don't forget to ⭐ star this repository.*
-
-</div>
