@@ -47,7 +47,7 @@ X1 EcoChain BOT is an automated tool designed to streamline onchain operations a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/‌airdropbomb/X1bot.git && cd X1bot
+https://github.com/airdropbomb/X1bot.git && cd X1bot
 ```
 
 ### 2. Install Dependencies
